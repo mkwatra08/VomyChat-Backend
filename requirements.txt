@@ -8,3 +8,4 @@ python-dotenv==1.0.1
 python_jose==3.4.0
 Requests==2.32.3
 slowapi==0.1.9
+locust
